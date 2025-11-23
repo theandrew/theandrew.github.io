@@ -74,10 +74,7 @@ const Home = () => {
         >
         <h2 className="text-4xl font-bold mb-12">About Me</h2>
           <p className="text-lg text-gray-700 mb-6">
-            I am a mechanical engineer specializing in product design, autonomous robotics, and computational fluid dynamics. 
-            I earned my B.S. and M.S. in Mechanical Engineering from Santa Clara University. 
-            I am currently an Electro-Mechanical Engineer II at Kazvu Labs, where I work on autonomous mobile robots (AMRs), UR10e robotic arms, and end-to-end system integration across both hardware and software. 
-            My role spans the full product lifecycle, including mechanical design, FEA validation, system integration, and field testing.
+            I am a mechanical engineer specializing in product design, autonomous robotics, and computational modeling. I earned my B.S. and M.S. in Mechanical Engineering from Santa Clara University. I am currently an Electro-Mechanical Engineer II at Kazvu Labs, where I own the mechanical and system-level development of proprietary autonomous mobile robots, integrating UR10e manipulators with custom AMR platforms. My work spans concept architecture through FEA validation, hardware design, ROS2-based controls development, and field deployment of production-bound robotic systems.
           </p>
         </motion.div>
       </section>
